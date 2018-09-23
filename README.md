@@ -1,5 +1,5 @@
 # CPE-X-KAIMAL
 list friends
--Nice
--Mark
--Pond
+- Nice
+- Mark
+- Pond
