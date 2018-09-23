@@ -2,4 +2,4 @@
 list friends
 -Nice
 -Mark
--Pondt
+-Pond
